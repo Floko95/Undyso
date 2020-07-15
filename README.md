@@ -1,6 +1,6 @@
 # Undyso
 Mon premier jeu Unity sur télephone :)
-Jouez au moins jusqu'au level 9 pour avoir tous les éléments de gamplay!
+Jouez au moins jusqu'au level 9 pour avoir tous les éléments de gameplay!
 Bon jeu!
 
 Axes d'amélioration:
